@@ -14,12 +14,12 @@ growth over time.
 | Area | What it contains |
 | --- | --- |
 | [`hello_world.py`](hello_world.py) | First Python program |
-| [`chapter 2`](chapter%202/) | Variables, input, calculations, and simple output |
-| [`chapter_3`](chapter_3/) | Decision structures and conditional logic |
-| [`chapter_4_exercises`](chapter_4_exercises/) | Loops and repeated calculations |
-| [`chapter_5_exercises`](chapter_5_exercises/) | Functions and modular problem solving |
-| [`chapter6exercises`](chapter6exercises/) | Additional function practice |
-| [`chapter7exercises`](chapter7exercises/) | Lists, validation, and applied exercises |
+| [`Chapter 2`](Chapter%202/) | Variables, input, calculations, and simple output |
+| [`Chapter 3`](Chapter%203/) | Decision structures and conditional logic |
+| [`Chapter 4`](Chapter%204/) | Loops and repeated calculations |
+| [`Chapter 5`](Chapter%205/) | Functions and modular problem solving |
+| [`Chapter 6`](Chapter%206/) | Additional function practice |
+| [`Chapter 7`](Chapter%207/) | Lists, validation, and applied exercises |
 | [`datecalc.py`](datecalc.py) | Standalone date calculation exercise |
 | [`elasticity.py`](elasticity.py) | Standalone elasticity calculation exercise |
 | [`finalproject`](finalproject/) | Rock, paper, scissors final project with screenshots |
@@ -30,7 +30,7 @@ These are standalone Python scripts and do not require third-party packages.
 From the repository root, run any file with Python 3:
 
 ```powershell
-python "chapter 2/salestax.py"
+python "Chapter 2/salestax.py"
 python finalproject/rps.py
 ```
 
