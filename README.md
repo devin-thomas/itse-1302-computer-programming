@@ -1,4 +1,4 @@
-# ITSE 1302 - Computer Programming
+# ITSE 1302: Computer Programming
 
 Coursework from **ITSE 1302: Computer Programming**, taken online at
 **San Antonio College** during **Summer 2023**.
